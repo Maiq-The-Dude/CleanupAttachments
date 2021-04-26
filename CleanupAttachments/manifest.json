@@ -1,0 +1,17 @@
+{
+  "name": "Cleanup Attachments",
+  "authors": [
+    "M'aiq"
+  ],
+  "guid": "maiq.cleanupattachments",
+  "version": "0.1.0",
+  "require": "0.3.2",
+  "assets": {
+    "patcher": {
+      "hookgen.conf": "deli:monomod.hookgen"
+    },
+    "setup": {
+      "CleanupAttachments.dll": "deli:assembly"
+    }
+  }
+}
