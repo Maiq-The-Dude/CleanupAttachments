@@ -1,3 +1,6 @@
+# Deprecated
+This functionality was added to the base game in [Update 99 Alpha 1](https://store.steampowered.com/news/app/450540/view/3023583167976781120) and so this mod is now redundant and will no longer be updated.
+
 # CleanupAttachments
 - Deletes unattached attachments laying around when you click the "Cleanup Guns & Melee" button in the wristmenu.
 
